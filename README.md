@@ -13,12 +13,15 @@ Make sure the Numpy, Pandas, and Matplotlib packages are installed on your machi
 
 ## Project Motivation<a name="motivation"></a>
 
+The motivation behind this project was to explore temporal trends in the Airbnb data. I seeked to answer the following three questions in my exploration:
+- How do the prices of Bostons Airbnbs change throughout the year?
+- How about weekly? Can I pick a day of the week to book for cheaper?
+- Do we see any significant seasonal change in pricing between Boston and Seattle?
+
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+All of my code used to perform the data engineering and visulization can be found in the 'Boston & Seattle Airbnb Dataset' notebook.
 
 ## Results<a name="results"></a>
 
@@ -26,4 +29,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The Airbnb Data from Boston and Seattle was sourced from Kaggle. Licensing for the data and other descriptive information for the Boston data can be found [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data) and for the Seattle Data [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data)
+The Airbnb Data from Boston and Seattle was sourced from Kaggle. Licensing for the data and other descriptive information for the Boston data can be found [here](https://www.kaggle.com/datasets/airbnb/boston), and for the Seattle Data [here](https://www.kaggle.com/datasets/airbnb/seattle/data)
